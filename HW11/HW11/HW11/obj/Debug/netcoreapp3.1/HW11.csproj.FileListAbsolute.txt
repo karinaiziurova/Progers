@@ -1,0 +1,27 @@
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.csproj.AssemblyReference.cache
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.AssemblyInfoInputs.cache
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.AssemblyInfo.cs
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.csproj.CoreCompileInputs.cache
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.exe
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.deps.json
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.runtimeconfig.json
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.runtimeconfig.dev.json
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.dll
+D:\курси_D\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.pdb
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.dll
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.pdb
+D:\курси_D\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.dll
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.pdb
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.exe
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.deps.json
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.runtimeconfig.json
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.runtimeconfig.dev.json
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.dll
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\bin\Debug\netcoreapp3.1\HW11.pdb
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсач прога\HW11\HW11\HW11\obj\Debug\netcoreapp3.1\HW11.genruntimeconfig.cache
